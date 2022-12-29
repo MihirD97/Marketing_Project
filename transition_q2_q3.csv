@@ -1,0 +1,32 @@
+,Var1,Freq
+1,active average  to  active average,314
+2,active average  to  active guest big,17
+3,active average  to  active recurring big,16
+4,active average  to  warm average,427
+5,active average  to  warm big,4
+6,active guest big  to  active average,47
+7,active guest big  to  active guest big,73
+8,active guest big  to  active recurring big,65
+9,active guest big  to  warm average,16
+10,active guest big  to  warm big,186
+11,active recurring big  to  active average,10
+12,active recurring big  to  active recurring big,93
+13,active recurring big  to  warm big,16
+14,cold  to  active average,26
+15,cold  to  active guest big,19
+16,cold  to  active recurring big,1
+17,cold  to  cold,249
+18,cold  to  warm average,32
+19,cold  to  warm big,9
+20,warm average  to  active average,123
+21,warm average  to  active guest big,10
+22,warm average  to  active recurring big,3
+23,warm average  to  cold,421
+24,warm average  to  warm average,88
+25,warm average  to  warm big,2
+26,warm big  to  active average,15
+27,warm big  to  active guest big,67
+28,warm big  to  active recurring big,17
+29,warm big  to  cold,178
+30,warm big  to  warm average,11
+31,warm big  to  warm big,40

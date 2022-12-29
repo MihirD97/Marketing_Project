@@ -1,0 +1,23 @@
+# Let's choose segments for recency as follows-
+# Active - today to median
+# Warm - median to 3rd quantile
+# Cold - more than 3rd Quantile
+
+# Let's choose segments for frequency as follows-
+# Guest - Lesser than equal to mean
+# Recurring - More than mean
+
+
+# Let's choose segments for monetary value as follows-
+# Average Spender - Less than or equal to Mean
+# Big spender - More than mean
+
+
+
+# Let's create following 6 segments -
+# 1) Active Guest Big (The Haileys Comet)- Ideal prospects you want to capture
+# 2) Active Recurring Big (The Golden Apples)- Ideal prospects you want to retain
+# 3) Active Average spender (Bread and butter) - Main consumer base
+# 4) Warm Average spender (The masses) - Part of main consumer base who still support
+# 5) Warm Big spender (George Clooney from Gravity) - Ideal Customer base thats slipping out of your hands 
+# 6) Cold (Jack from Titanic) - Little prospect of bringing them back, can try a few hail marys
